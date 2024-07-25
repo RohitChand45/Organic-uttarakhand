@@ -1,0 +1,1 @@
+To run this code in the localhost server you need to add the inner directory of PHP backend in the htdocs folder of your Xampp and import the shop.sql file in the phpMyAdmin under the database name of organic. 
